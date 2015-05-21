@@ -21,3 +21,6 @@ docs/
 /*.suo
 /*.cache
 /*.puo
+/*.user
+[Bb]in
+[Oo]bj

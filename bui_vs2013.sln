@@ -3,21 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "bui_vs2013", "bui_vs2013.phpproj", "{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bui_vs2013", "bui_vs2013.csproj", "{7382D581-8DEE-47FF-8D2D-2FBE61BE873B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Local|PHP 5.5 = Local|PHP 5.5
-		Production|PHP 5.5 = Production|PHP 5.5
-		Staging|PHP 5.5 = Staging|PHP 5.5
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Local|PHP 5.5.ActiveCfg = Local|PHP 5.5
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Local|PHP 5.5.Deploy.0 = Local|PHP 5.5
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Production|PHP 5.5.ActiveCfg = Production|PHP 5.5
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Production|PHP 5.5.Deploy.0 = Production|PHP 5.5
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Staging|PHP 5.5.ActiveCfg = Staging|PHP 5.5
-		{7A7EFA6D-725A-43B3-B355-A8EF6DCF38D6}.Staging|PHP 5.5.Deploy.0 = Staging|PHP 5.5
+		{7382D581-8DEE-47FF-8D2D-2FBE61BE873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7382D581-8DEE-47FF-8D2D-2FBE61BE873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7382D581-8DEE-47FF-8D2D-2FBE61BE873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7382D581-8DEE-47FF-8D2D-2FBE61BE873B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
