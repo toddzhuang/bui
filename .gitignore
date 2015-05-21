@@ -18,3 +18,6 @@ node_modules/
 tmp/
 reports/
 docs/
+/*.suo
+/*.cache
+/*.puo
